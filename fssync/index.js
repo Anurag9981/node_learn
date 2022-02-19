@@ -42,3 +42,13 @@
     //6. to rename the file
     // fs.renameSync("read.txt","readwrite.txt");
 
+
+
+    
+
+
+
+
+
+
+
